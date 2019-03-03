@@ -41,3 +41,5 @@ customfield_value: значение характеристики "Состав"
 virtuemart_product_id = id соответствющего товара в VirtueMart
 virtuemart_custom_id = 9  
 customfield_value: значение 'product_s_desc'
+
+3)
