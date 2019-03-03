@@ -13,7 +13,6 @@ Plugins: VM Framework Loader during Plugin Updates
 virtuemart_product_id = id товара в 1С
 product_sku = артикул в 1С
 product_parent_id = 0
-product_gtin = ''
 product_in_stock = остаток в 1С
 
 Для каждого дочернего продукта:
